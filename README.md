@@ -1,4 +1,5 @@
 Hi there 👋
+<img align="right" alt="GIF" src="https://github.com/3bdelrazek/3bdelrazek/blob/main/giphy.gif" />
 <h1 align="center">Hi 👋, I'm Abdelrazek Elsayad</h1>
 <h3 align="center">A passionate Software Engineer from Egypt</h3>
 
