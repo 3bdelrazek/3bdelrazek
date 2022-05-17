@@ -1,7 +1,7 @@
 Happy to see you ❤
 <img align="right" alt="GIF" src="https://github.com/3bdelrazek/3bdelrazek/blob/main/giphy.gif" width="400" height="300" />
 <h1 align="center">Hi 🤍, I'm Abdelrazek Elsayad</h1>
-<h3 align="center">A passionate Software Engineer from Egypt</h3>
+<h3 align="center"> Senior Computer Engineer Student From Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3bdelrazek&label=Profile%20views&color=0e75b6&style=flat" alt="3bdelrazek" /> </p>
 
