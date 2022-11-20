@@ -2,15 +2,15 @@
 Happy to see you ❤
 
 <h1 align="center">Hi 🤍, I'm Abdelrazek Elsayad</h1>
-<h3 align="center"> Senior Computer Engineer Student From Egypt</h3>
+<h3 align="center"> Computer Engineer From Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3bdelrazek&label=Profile%20views&color=0e75b6&style=flat" alt="3bdelrazek" /> </p>
 
-- 🔭 I’m currently working on **Recommendation Engine Graduation Project**
+- 🔭 I’m currently working on **Freelancing Projects**
 
 - 🌱 I’m currently learning **IT Automation ,Data analysis, Data Science**
 
-- 💬 Ask me about **python**
+- 💬 Ask me about **Computer Engineering**
 
 - 📫 How to reach me **01021897682**
 
